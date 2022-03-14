@@ -1,0 +1,6 @@
+title:my prelimary preferred rolls
+// Duty Bound (Auto Rifle)
+dimwishlist:item=435216110,1840239774,106909392,3400784728,3425386926,4283235143
+
+// Funnelweb (Submachine Gun)
+dimwishlist:item=3341893443,202670084,106909392,1820235745,4104185692,384158423
