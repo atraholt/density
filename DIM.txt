@@ -5818,29 +5818,53 @@ dimwishlist:item=1361871430&perks=4293542123,1017229899,1478423395,1607056502,10
 dimwishlist:item=1361871430&perks=1017229899,1478423395,1607056502,2109543898,106909392#notes:Aegis tier S #2 choice #35: even higher base ammo gen than Mint
 dimwishlist:item=1361871430&perks=1017229899,1478423395,1607056502,106909392,2890807135#notes:Aegis tier S #2 choice #36: even higher base ammo gen than Mint
 dimwishlist:item=1715391576&perks=3713579091,3081867624,3525010810,2420895100,2869569095#notes:Aegis tier S #3 choice #1: excellent ammo gen + roam + damage perks
+dimwishlist:item=3285784871&perks=3081867624,3525010810,2420895100,3846229553,2869569095#notes:Aegis tier S #3 choice #1: excellent ammo gen + roam + damage perks
 dimwishlist:item=1715391576&perks=3713579091,3525010810,2420895100,2869569095,2396489472#notes:Aegis tier S #3 choice #2: excellent ammo gen + roam + damage perks
+dimwishlist:item=3285784871&perks=3525010810,2420895100,3846229553,2869569095,2396489472#notes:Aegis tier S #3 choice #2: excellent ammo gen + roam + damage perks
 dimwishlist:item=1715391576&perks=3713579091,3081867624,3525010810,2420895100,2859149211#notes:Aegis tier S #3 choice #3: excellent ammo gen + roam + damage perks
+dimwishlist:item=42435996&perks=3081867624,3525010810,2420895100,3846229553,2859149211#notes:Aegis tier S #3 choice #3: excellent ammo gen + roam + damage perks
 dimwishlist:item=1715391576&perks=3713579091,3525010810,2420895100,2396489472,2859149211#notes:Aegis tier S #3 choice #4: excellent ammo gen + roam + damage perks
+dimwishlist:item=42435996&perks=3525010810,2420895100,3846229553,2396489472,2859149211#notes:Aegis tier S #3 choice #4: excellent ammo gen + roam + damage perks
 dimwishlist:item=1715391576&perks=3713579091,3081867624,3525010810,2420895100,831391274#notes:Aegis tier S #3 choice #5: excellent ammo gen + roam + damage perks
+dimwishlist:item=42435996&perks=3081867624,3525010810,2420895100,831391274,3846229553#notes:Aegis tier S #3 choice #5: excellent ammo gen + roam + damage perks
 dimwishlist:item=1715391576&perks=3713579091,3525010810,2420895100,831391274,2396489472#notes:Aegis tier S #3 choice #6: excellent ammo gen + roam + damage perks
+dimwishlist:item=42435996&perks=3525010810,2420895100,831391274,3846229553,2396489472#notes:Aegis tier S #3 choice #6: excellent ammo gen + roam + damage perks
 dimwishlist:item=1715391576&perks=3713579091,3081867624,3525010810,2869569095,106909392#notes:Aegis tier S #3 choice #7: excellent ammo gen + roam + damage perks
+dimwishlist:item=3285784871&perks=3081867624,3525010810,3846229553,2869569095,106909392#notes:Aegis tier S #3 choice #7: excellent ammo gen + roam + damage perks
 dimwishlist:item=1715391576&perks=3713579091,3525010810,2869569095,106909392,2396489472#notes:Aegis tier S #3 choice #8: excellent ammo gen + roam + damage perks
+dimwishlist:item=3285784871&perks=3525010810,3846229553,2869569095,106909392,2396489472#notes:Aegis tier S #3 choice #8: excellent ammo gen + roam + damage perks
 dimwishlist:item=1715391576&perks=3713579091,3081867624,3525010810,106909392,2859149211#notes:Aegis tier S #3 choice #9: excellent ammo gen + roam + damage perks
+dimwishlist:item=42435996&perks=3081867624,3525010810,3846229553,106909392,2859149211#notes:Aegis tier S #3 choice #9: excellent ammo gen + roam + damage perks
 dimwishlist:item=1715391576&perks=3713579091,3525010810,106909392,2396489472,2859149211#notes:Aegis tier S #3 choice #10: excellent ammo gen + roam + damage perks
+dimwishlist:item=42435996&perks=3525010810,3846229553,106909392,2396489472,2859149211#notes:Aegis tier S #3 choice #10: excellent ammo gen + roam + damage perks
 dimwishlist:item=1715391576&perks=3713579091,3081867624,3525010810,831391274,106909392#notes:Aegis tier S #3 choice #11: excellent ammo gen + roam + damage perks
+dimwishlist:item=42435996&perks=3081867624,3525010810,831391274,3846229553,106909392#notes:Aegis tier S #3 choice #11: excellent ammo gen + roam + damage perks
 dimwishlist:item=1715391576&perks=3713579091,3525010810,831391274,106909392,2396489472#notes:Aegis tier S #3 choice #12: excellent ammo gen + roam + damage perks
+dimwishlist:item=42435996&perks=3525010810,831391274,3846229553,106909392,2396489472#notes:Aegis tier S #3 choice #12: excellent ammo gen + roam + damage perks
 dimwishlist:item=1715391576&perks=3713579091,3081867624,1478423395,2420895100,2869569095#notes:Aegis tier S #3 choice #13: excellent ammo gen + roam + damage perks
+dimwishlist:item=3285784871&perks=3081867624,1478423395,2420895100,3846229553,2869569095#notes:Aegis tier S #3 choice #13: excellent ammo gen + roam + damage perks
 dimwishlist:item=1715391576&perks=3713579091,1478423395,2420895100,2869569095,2396489472#notes:Aegis tier S #3 choice #14: excellent ammo gen + roam + damage perks
+dimwishlist:item=3285784871&perks=1478423395,2420895100,3846229553,2869569095,2396489472#notes:Aegis tier S #3 choice #14: excellent ammo gen + roam + damage perks
 dimwishlist:item=1715391576&perks=3713579091,3081867624,1478423395,2420895100,2859149211#notes:Aegis tier S #3 choice #15: excellent ammo gen + roam + damage perks
+dimwishlist:item=42435996&perks=3081867624,1478423395,2420895100,3846229553,2859149211#notes:Aegis tier S #3 choice #15: excellent ammo gen + roam + damage perks
 dimwishlist:item=1715391576&perks=3713579091,1478423395,2420895100,2396489472,2859149211#notes:Aegis tier S #3 choice #16: excellent ammo gen + roam + damage perks
+dimwishlist:item=42435996&perks=1478423395,2420895100,3846229553,2396489472,2859149211#notes:Aegis tier S #3 choice #16: excellent ammo gen + roam + damage perks
 dimwishlist:item=1715391576&perks=3713579091,3081867624,1478423395,2420895100,831391274#notes:Aegis tier S #3 choice #17: excellent ammo gen + roam + damage perks
+dimwishlist:item=42435996&perks=3081867624,1478423395,2420895100,831391274,3846229553#notes:Aegis tier S #3 choice #17: excellent ammo gen + roam + damage perks
 dimwishlist:item=1715391576&perks=3713579091,1478423395,2420895100,831391274,2396489472#notes:Aegis tier S #3 choice #18: excellent ammo gen + roam + damage perks
+dimwishlist:item=42435996&perks=1478423395,2420895100,831391274,3846229553,2396489472#notes:Aegis tier S #3 choice #18: excellent ammo gen + roam + damage perks
 dimwishlist:item=1715391576&perks=3713579091,3081867624,1478423395,2869569095,106909392#notes:Aegis tier S #3 choice #19: excellent ammo gen + roam + damage perks
+dimwishlist:item=3285784871&perks=3081867624,1478423395,3846229553,2869569095,106909392#notes:Aegis tier S #3 choice #19: excellent ammo gen + roam + damage perks
 dimwishlist:item=1715391576&perks=3713579091,1478423395,2869569095,106909392,2396489472#notes:Aegis tier S #3 choice #20: excellent ammo gen + roam + damage perks
+dimwishlist:item=3285784871&perks=1478423395,3846229553,2869569095,106909392,2396489472#notes:Aegis tier S #3 choice #20: excellent ammo gen + roam + damage perks
 dimwishlist:item=1715391576&perks=3713579091,3081867624,1478423395,106909392,2859149211#notes:Aegis tier S #3 choice #21: excellent ammo gen + roam + damage perks
+dimwishlist:item=42435996&perks=3081867624,1478423395,3846229553,106909392,2859149211#notes:Aegis tier S #3 choice #21: excellent ammo gen + roam + damage perks
 dimwishlist:item=1715391576&perks=3713579091,1478423395,106909392,2396489472,2859149211#notes:Aegis tier S #3 choice #22: excellent ammo gen + roam + damage perks
+dimwishlist:item=42435996&perks=1478423395,3846229553,106909392,2396489472,2859149211#notes:Aegis tier S #3 choice #22: excellent ammo gen + roam + damage perks
 dimwishlist:item=1715391576&perks=3713579091,3081867624,1478423395,831391274,106909392#notes:Aegis tier S #3 choice #23: excellent ammo gen + roam + damage perks
+dimwishlist:item=42435996&perks=3081867624,1478423395,831391274,3846229553,106909392#notes:Aegis tier S #3 choice #23: excellent ammo gen + roam + damage perks
 dimwishlist:item=1715391576&perks=3713579091,1478423395,831391274,106909392,2396489472#notes:Aegis tier S #3 choice #24: excellent ammo gen + roam + damage perks
+dimwishlist:item=42435996&perks=1478423395,831391274,3846229553,106909392,2396489472#notes:Aegis tier S #3 choice #24: excellent ammo gen + roam + damage perks
 dimwishlist:item=649691506&perks=2697390518,1202133695,3987942396,1220787353,2319119708#notes:Aegis tier S #4 choice #1: potential damage option if High Ground is usable on a boss
 dimwishlist:item=649691506&perks=2697390518,1202133695,2551157718,3987942396,1220787353#notes:Aegis tier S #4 choice #2: potential damage option if High Ground is usable on a boss
 dimwishlist:item=649691506&perks=2697390518,1202133695,1220787353,4042220767,2319119708#notes:Aegis tier S #4 choice #3: potential damage option if High Ground is usable on a boss
@@ -6030,7 +6054,6 @@ dimwishlist:item=-2875763009#notes:Aegis tier list: Outdated or wrong version of
 dimwishlist:item=-211938782#notes:Aegis tier list: Outdated or wrong version of a weapon
 dimwishlist:item=-2812100428#notes:Aegis tier list: Outdated or wrong version of a weapon
 dimwishlist:item=-2228325504#notes:Aegis tier list: Outdated or wrong version of a weapon
-dimwishlist:item=-3285784871#notes:Aegis tier list: Outdated or wrong version of a weapon
 dimwishlist:item=-4020742303#notes:Aegis tier list: Outdated or wrong version of a weapon
 dimwishlist:item=-2481758391#notes:Aegis tier list: Outdated or wrong version of a weapon
 dimwishlist:item=-2723241847#notes:Aegis tier list: Outdated or wrong version of a weapon
@@ -6271,7 +6294,6 @@ dimwishlist:item=-528834068#notes:Aegis tier list: Outdated or wrong version of 
 dimwishlist:item=-4203034886#notes:Aegis tier list: Outdated or wrong version of a weapon
 dimwishlist:item=-3369545945#notes:Aegis tier list: Outdated or wrong version of a weapon
 dimwishlist:item=-3236112986#notes:Aegis tier list: Outdated or wrong version of a weapon
-dimwishlist:item=-42435996#notes:Aegis tier list: Outdated or wrong version of a weapon
 dimwishlist:item=-3242168339#notes:Aegis tier list: Outdated or wrong version of a weapon
 dimwishlist:item=-2168486467#notes:Aegis tier list: Outdated or wrong version of a weapon
 dimwishlist:item=-578459533#notes:Aegis tier list: Outdated or wrong version of a weapon
