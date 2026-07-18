@@ -2506,58 +2506,6 @@ dimwishlist:item=-2901221332#notes:Aegis tier list: Rank B or worse weapon
 dimwishlist:item=-2901221332#notes:Aegis tier list: Rank B or worse weapon
 dimwishlist:item=-2901221332#notes:Aegis tier list: Rank B or worse weapon
 dimwishlist:item=-2901221332#notes:Aegis tier list: Rank B or worse weapon
-dimwishlist:item=-3613444087#notes:Aegis tier list: Rank B or worse weapon
-dimwishlist:item=-3613444087#notes:Aegis tier list: Rank B or worse weapon
-dimwishlist:item=-3613444087#notes:Aegis tier list: Rank B or worse weapon
-dimwishlist:item=-3613444087#notes:Aegis tier list: Rank B or worse weapon
-dimwishlist:item=-3613444087#notes:Aegis tier list: Rank B or worse weapon
-dimwishlist:item=-3613444087#notes:Aegis tier list: Rank B or worse weapon
-dimwishlist:item=-3613444087#notes:Aegis tier list: Rank B or worse weapon
-dimwishlist:item=-3613444087#notes:Aegis tier list: Rank B or worse weapon
-dimwishlist:item=-3613444087#notes:Aegis tier list: Rank B or worse weapon
-dimwishlist:item=-3613444087#notes:Aegis tier list: Rank B or worse weapon
-dimwishlist:item=-3613444087#notes:Aegis tier list: Rank B or worse weapon
-dimwishlist:item=-3613444087#notes:Aegis tier list: Rank B or worse weapon
-dimwishlist:item=-1323862250#notes:Aegis tier list: Rank B or worse weapon
-dimwishlist:item=-1323862250#notes:Aegis tier list: Rank B or worse weapon
-dimwishlist:item=-1323862250#notes:Aegis tier list: Rank B or worse weapon
-dimwishlist:item=-1323862250#notes:Aegis tier list: Rank B or worse weapon
-dimwishlist:item=-1323862250#notes:Aegis tier list: Rank B or worse weapon
-dimwishlist:item=-1323862250#notes:Aegis tier list: Rank B or worse weapon
-dimwishlist:item=-1323862250#notes:Aegis tier list: Rank B or worse weapon
-dimwishlist:item=-1323862250#notes:Aegis tier list: Rank B or worse weapon
-dimwishlist:item=-219610523#notes:Aegis tier list: Rank B or worse weapon
-dimwishlist:item=-219610523#notes:Aegis tier list: Rank B or worse weapon
-dimwishlist:item=-219610523#notes:Aegis tier list: Rank B or worse weapon
-dimwishlist:item=-219610523#notes:Aegis tier list: Rank B or worse weapon
-dimwishlist:item=-219610523#notes:Aegis tier list: Rank B or worse weapon
-dimwishlist:item=-219610523#notes:Aegis tier list: Rank B or worse weapon
-dimwishlist:item=-219610523#notes:Aegis tier list: Rank B or worse weapon
-dimwishlist:item=-219610523#notes:Aegis tier list: Rank B or worse weapon
-dimwishlist:item=-2423071981#notes:Aegis tier list: Rank B or worse weapon
-dimwishlist:item=-2423071981#notes:Aegis tier list: Rank B or worse weapon
-dimwishlist:item=-2423071981#notes:Aegis tier list: Rank B or worse weapon
-dimwishlist:item=-2423071981#notes:Aegis tier list: Rank B or worse weapon
-dimwishlist:item=-2423071981#notes:Aegis tier list: Rank B or worse weapon
-dimwishlist:item=-2423071981#notes:Aegis tier list: Rank B or worse weapon
-dimwishlist:item=-2423071981#notes:Aegis tier list: Rank B or worse weapon
-dimwishlist:item=-2423071981#notes:Aegis tier list: Rank B or worse weapon
-dimwishlist:item=-2423071981#notes:Aegis tier list: Rank B or worse weapon
-dimwishlist:item=-2423071981#notes:Aegis tier list: Rank B or worse weapon
-dimwishlist:item=-2423071981#notes:Aegis tier list: Rank B or worse weapon
-dimwishlist:item=-2423071981#notes:Aegis tier list: Rank B or worse weapon
-dimwishlist:item=-2161618499#notes:Aegis tier list: Rank B or worse weapon
-dimwishlist:item=-2161618499#notes:Aegis tier list: Rank B or worse weapon
-dimwishlist:item=-2161618499#notes:Aegis tier list: Rank B or worse weapon
-dimwishlist:item=-2161618499#notes:Aegis tier list: Rank B or worse weapon
-dimwishlist:item=-2161618499#notes:Aegis tier list: Rank B or worse weapon
-dimwishlist:item=-2161618499#notes:Aegis tier list: Rank B or worse weapon
-dimwishlist:item=-2161618499#notes:Aegis tier list: Rank B or worse weapon
-dimwishlist:item=-2161618499#notes:Aegis tier list: Rank B or worse weapon
-dimwishlist:item=-2161618499#notes:Aegis tier list: Rank B or worse weapon
-dimwishlist:item=-2161618499#notes:Aegis tier list: Rank B or worse weapon
-dimwishlist:item=-2161618499#notes:Aegis tier list: Rank B or worse weapon
-dimwishlist:item=-2161618499#notes:Aegis tier list: Rank B or worse weapon
 dimwishlist:item=-976459525#notes:Aegis tier list: Rank B or worse weapon
 dimwishlist:item=-976459525#notes:Aegis tier list: Rank B or worse weapon
 dimwishlist:item=-976459525#notes:Aegis tier list: Rank B or worse weapon
@@ -2572,6 +2520,70 @@ dimwishlist:item=-768621510#notes:Aegis tier list: Rank B or worse weapon
 dimwishlist:item=-768621510#notes:Aegis tier list: Rank B or worse weapon
 dimwishlist:item=-768621510#notes:Aegis tier list: Rank B or worse weapon
 dimwishlist:item=-768621510#notes:Aegis tier list: Rank B or worse weapon
+dimwishlist:item=-3613444087#notes:Aegis tier list: Rank B or worse weapon
+dimwishlist:item=-3613444087#notes:Aegis tier list: Rank B or worse weapon
+dimwishlist:item=-3613444087#notes:Aegis tier list: Rank B or worse weapon
+dimwishlist:item=-3613444087#notes:Aegis tier list: Rank B or worse weapon
+dimwishlist:item=-3613444087#notes:Aegis tier list: Rank B or worse weapon
+dimwishlist:item=-3613444087#notes:Aegis tier list: Rank B or worse weapon
+dimwishlist:item=-3613444087#notes:Aegis tier list: Rank B or worse weapon
+dimwishlist:item=-3613444087#notes:Aegis tier list: Rank B or worse weapon
+dimwishlist:item=-3613444087#notes:Aegis tier list: Rank B or worse weapon
+dimwishlist:item=-3613444087#notes:Aegis tier list: Rank B or worse weapon
+dimwishlist:item=-3613444087#notes:Aegis tier list: Rank B or worse weapon
+dimwishlist:item=-3613444087#notes:Aegis tier list: Rank B or worse weapon
+dimwishlist:item=-1323862250#notes:Aegis tier list: Rank B or worse weapon
+dimwishlist:item=-1323862250#notes:Aegis tier list: Rank B or worse weapon
+dimwishlist:item=-1323862250#notes:Aegis tier list: Rank B or worse weapon
+dimwishlist:item=-1323862250#notes:Aegis tier list: Rank B or worse weapon
+dimwishlist:item=-1323862250#notes:Aegis tier list: Rank B or worse weapon
+dimwishlist:item=-1323862250#notes:Aegis tier list: Rank B or worse weapon
+dimwishlist:item=-1323862250#notes:Aegis tier list: Rank B or worse weapon
+dimwishlist:item=-1323862250#notes:Aegis tier list: Rank B or worse weapon
+dimwishlist:item=-219610523#notes:Aegis tier list: Rank B or worse weapon
+dimwishlist:item=-219610523#notes:Aegis tier list: Rank B or worse weapon
+dimwishlist:item=-219610523#notes:Aegis tier list: Rank B or worse weapon
+dimwishlist:item=-219610523#notes:Aegis tier list: Rank B or worse weapon
+dimwishlist:item=-219610523#notes:Aegis tier list: Rank B or worse weapon
+dimwishlist:item=-219610523#notes:Aegis tier list: Rank B or worse weapon
+dimwishlist:item=-219610523#notes:Aegis tier list: Rank B or worse weapon
+dimwishlist:item=-219610523#notes:Aegis tier list: Rank B or worse weapon
+dimwishlist:item=-2423071981#notes:Aegis tier list: Rank B or worse weapon
+dimwishlist:item=-2423071981#notes:Aegis tier list: Rank B or worse weapon
+dimwishlist:item=-2423071981#notes:Aegis tier list: Rank B or worse weapon
+dimwishlist:item=-2423071981#notes:Aegis tier list: Rank B or worse weapon
+dimwishlist:item=-2423071981#notes:Aegis tier list: Rank B or worse weapon
+dimwishlist:item=-2423071981#notes:Aegis tier list: Rank B or worse weapon
+dimwishlist:item=-2423071981#notes:Aegis tier list: Rank B or worse weapon
+dimwishlist:item=-2423071981#notes:Aegis tier list: Rank B or worse weapon
+dimwishlist:item=-2423071981#notes:Aegis tier list: Rank B or worse weapon
+dimwishlist:item=-2423071981#notes:Aegis tier list: Rank B or worse weapon
+dimwishlist:item=-2423071981#notes:Aegis tier list: Rank B or worse weapon
+dimwishlist:item=-2423071981#notes:Aegis tier list: Rank B or worse weapon
+dimwishlist:item=-2161618499#notes:Aegis tier list: Rank B or worse weapon
+dimwishlist:item=-2161618499#notes:Aegis tier list: Rank B or worse weapon
+dimwishlist:item=-2161618499#notes:Aegis tier list: Rank B or worse weapon
+dimwishlist:item=-2161618499#notes:Aegis tier list: Rank B or worse weapon
+dimwishlist:item=-2161618499#notes:Aegis tier list: Rank B or worse weapon
+dimwishlist:item=-2161618499#notes:Aegis tier list: Rank B or worse weapon
+dimwishlist:item=-2161618499#notes:Aegis tier list: Rank B or worse weapon
+dimwishlist:item=-2161618499#notes:Aegis tier list: Rank B or worse weapon
+dimwishlist:item=-2161618499#notes:Aegis tier list: Rank B or worse weapon
+dimwishlist:item=-2161618499#notes:Aegis tier list: Rank B or worse weapon
+dimwishlist:item=-2161618499#notes:Aegis tier list: Rank B or worse weapon
+dimwishlist:item=-2161618499#notes:Aegis tier list: Rank B or worse weapon
+dimwishlist:item=-2274706510#notes:Aegis tier list: Rank B or worse weapon
+dimwishlist:item=-2274706510#notes:Aegis tier list: Rank B or worse weapon
+dimwishlist:item=-2274706510#notes:Aegis tier list: Rank B or worse weapon
+dimwishlist:item=-2274706510#notes:Aegis tier list: Rank B or worse weapon
+dimwishlist:item=-2274706510#notes:Aegis tier list: Rank B or worse weapon
+dimwishlist:item=-2274706510#notes:Aegis tier list: Rank B or worse weapon
+dimwishlist:item=-2274706510#notes:Aegis tier list: Rank B or worse weapon
+dimwishlist:item=-2274706510#notes:Aegis tier list: Rank B or worse weapon
+dimwishlist:item=-2274706510#notes:Aegis tier list: Rank B or worse weapon
+dimwishlist:item=-2274706510#notes:Aegis tier list: Rank B or worse weapon
+dimwishlist:item=-2274706510#notes:Aegis tier list: Rank B or worse weapon
+dimwishlist:item=-2274706510#notes:Aegis tier list: Rank B or worse weapon
 dimwishlist:item=-963710795#notes:Aegis tier list: Rank B or worse weapon
 dimwishlist:item=-963710795#notes:Aegis tier list: Rank B or worse weapon
 dimwishlist:item=-3102162710#notes:Aegis tier list: Rank B or worse weapon
@@ -2638,14 +2650,6 @@ dimwishlist:item=-1084190509#notes:Aegis tier list: Rank B or worse weapon
 dimwishlist:item=-1084190509#notes:Aegis tier list: Rank B or worse weapon
 dimwishlist:item=-1084190509#notes:Aegis tier list: Rank B or worse weapon
 dimwishlist:item=-1084190509#notes:Aegis tier list: Rank B or worse weapon
-dimwishlist:item=-2274706510#notes:Aegis tier list: Rank B or worse weapon
-dimwishlist:item=-2274706510#notes:Aegis tier list: Rank B or worse weapon
-dimwishlist:item=-2274706510#notes:Aegis tier list: Rank B or worse weapon
-dimwishlist:item=-2274706510#notes:Aegis tier list: Rank B or worse weapon
-dimwishlist:item=-2274706510#notes:Aegis tier list: Rank B or worse weapon
-dimwishlist:item=-2274706510#notes:Aegis tier list: Rank B or worse weapon
-dimwishlist:item=-2274706510#notes:Aegis tier list: Rank B or worse weapon
-dimwishlist:item=-2274706510#notes:Aegis tier list: Rank B or worse weapon
 dimwishlist:item=-1720503118#notes:Aegis tier list: Rank B or worse weapon
 dimwishlist:item=-1720503118#notes:Aegis tier list: Rank B or worse weapon
 dimwishlist:item=-1720503118#notes:Aegis tier list: Rank B or worse weapon
@@ -3610,20 +3614,20 @@ dimwishlist:item=1303313141&perks=3700496672,1298135794,4198902903,1840239774,27
 dimwishlist:item=3462679024&perks=960997401,1298135794,1840239774,2749775325,3640170453#notes:Aegis tier S #2 choice #4: only kinetic slot StL trace, excellent with Tablet of Ruin, wish it had Slice
 dimwishlist:item=1303313141&perks=960997401,1298135794,1840239774,2749775325,831391274#notes:Aegis tier S #2 choice #5: only kinetic slot StL trace, excellent with Tablet of Ruin, wish it had Slice
 dimwishlist:item=1303313141&perks=960997401,1298135794,4198902903,1840239774,2749775325#notes:Aegis tier S #2 choice #6: only kinetic slot StL trace, excellent with Tablet of Ruin, wish it had Slice
-dimwishlist:item=2386208942&perks=3700496672,1702976605,1840239774,2749775325,2396489472#notes:Aegis tier A #3 choice #1: decently fast jolt application, also has StL + Chain for pickups, just not as strong with artifact
-dimwishlist:item=2386208942&perks=3700496672,1702976605,1840239774,2749775325,3966416502#notes:Aegis tier A #3 choice #2: decently fast jolt application, also has StL + Chain for pickups, just not as strong with artifact
-dimwishlist:item=2386208942&perks=3700496672,1702976605,4198902903,1840239774,2749775325#notes:Aegis tier A #3 choice #3: decently fast jolt application, also has StL + Chain for pickups, just not as strong with artifact
-dimwishlist:item=2386208942&perks=1702976605,1840239774,1354429876,2749775325,2396489472#notes:Aegis tier A #3 choice #4: decently fast jolt application, also has StL + Chain for pickups, just not as strong with artifact
-dimwishlist:item=2386208942&perks=1702976605,1840239774,1354429876,2749775325,3966416502#notes:Aegis tier A #3 choice #5: decently fast jolt application, also has StL + Chain for pickups, just not as strong with artifact
-dimwishlist:item=2386208942&perks=1702976605,4198902903,1840239774,1354429876,2749775325#notes:Aegis tier A #3 choice #6: decently fast jolt application, also has StL + Chain for pickups, just not as strong with artifact
-dimwishlist:item=2323544076&perks=1556840489,1840239774,1250481499,2749775325,776531651#notes:Aegis tier A #4 choice #1: actually pretty decent with Volatile Flow in a trace-focused build for barrier stun, high ammo gen
-dimwishlist:item=2323544076&perks=1048183818,1840239774,1250481499,2749775325,776531651#notes:Aegis tier A #4 choice #2: actually pretty decent with Volatile Flow in a trace-focused build for barrier stun, high ammo gen
-dimwishlist:item=548958835&perks=4293542123,3700496672,1840239774,1260401931,2749775325#notes:Aegis tier A #5 choice #1: best anti-barrier trace option, also solid for solar Verity use cases
-dimwishlist:item=548958835&perks=3700496672,1840239774,3523296417,1260401931,2749775325#notes:Aegis tier A #5 choice #2: best anti-barrier trace option, also solid for solar Verity use cases
-dimwishlist:item=548958835&perks=3700496672,1840239774,1260401931,1683379515,2749775325#notes:Aegis tier A #5 choice #3: best anti-barrier trace option, also solid for solar Verity use cases
-dimwishlist:item=548958835&perks=4293542123,1048183818,1840239774,1260401931,2749775325#notes:Aegis tier A #5 choice #4: best anti-barrier trace option, also solid for solar Verity use cases
-dimwishlist:item=548958835&perks=1048183818,1840239774,3523296417,1260401931,2749775325#notes:Aegis tier A #5 choice #5: best anti-barrier trace option, also solid for solar Verity use cases
-dimwishlist:item=548958835&perks=1048183818,1840239774,1260401931,1683379515,2749775325#notes:Aegis tier A #5 choice #6: best anti-barrier trace option, also solid for solar Verity use cases
+dimwishlist:item=2323544076&perks=1556840489,1840239774,1250481499,2749775325,776531651#notes:Aegis tier A #3 choice #1: actually pretty decent with Volatile Flow in a trace-focused build for barrier stun, high ammo gen
+dimwishlist:item=2323544076&perks=1048183818,1840239774,1250481499,2749775325,776531651#notes:Aegis tier A #3 choice #2: actually pretty decent with Volatile Flow in a trace-focused build for barrier stun, high ammo gen
+dimwishlist:item=548958835&perks=4293542123,3700496672,1840239774,1260401931,2749775325#notes:Aegis tier A #4 choice #1: best anti-barrier trace option, also solid for solar Verity use cases
+dimwishlist:item=548958835&perks=3700496672,1840239774,3523296417,1260401931,2749775325#notes:Aegis tier A #4 choice #2: best anti-barrier trace option, also solid for solar Verity use cases
+dimwishlist:item=548958835&perks=3700496672,1840239774,1260401931,1683379515,2749775325#notes:Aegis tier A #4 choice #3: best anti-barrier trace option, also solid for solar Verity use cases
+dimwishlist:item=548958835&perks=4293542123,1048183818,1840239774,1260401931,2749775325#notes:Aegis tier A #4 choice #4: best anti-barrier trace option, also solid for solar Verity use cases
+dimwishlist:item=548958835&perks=1048183818,1840239774,3523296417,1260401931,2749775325#notes:Aegis tier A #4 choice #5: best anti-barrier trace option, also solid for solar Verity use cases
+dimwishlist:item=548958835&perks=1048183818,1840239774,1260401931,1683379515,2749775325#notes:Aegis tier A #4 choice #6: best anti-barrier trace option, also solid for solar Verity use cases
+dimwishlist:item=2386208942&perks=3700496672,1702976605,1840239774,2749775325,2396489472#notes:Aegis tier A #5 choice #1: decently fast jolt application, also has StL + Chain for pickups, just not as strong with artifact
+dimwishlist:item=2386208942&perks=3700496672,1702976605,1840239774,2749775325,3966416502#notes:Aegis tier A #5 choice #2: decently fast jolt application, also has StL + Chain for pickups, just not as strong with artifact
+dimwishlist:item=2386208942&perks=3700496672,1702976605,4198902903,1840239774,2749775325#notes:Aegis tier A #5 choice #3: decently fast jolt application, also has StL + Chain for pickups, just not as strong with artifact
+dimwishlist:item=2386208942&perks=1702976605,1840239774,1354429876,2749775325,2396489472#notes:Aegis tier A #5 choice #4: decently fast jolt application, also has StL + Chain for pickups, just not as strong with artifact
+dimwishlist:item=2386208942&perks=1702976605,1840239774,1354429876,2749775325,3966416502#notes:Aegis tier A #5 choice #5: decently fast jolt application, also has StL + Chain for pickups, just not as strong with artifact
+dimwishlist:item=2386208942&perks=1702976605,4198902903,1840239774,1354429876,2749775325#notes:Aegis tier A #5 choice #6: decently fast jolt application, also has StL + Chain for pickups, just not as strong with artifact
 dimwishlist:item=1471212226&perks=4293542123,3186078099,1840239774,2749775325,2890807135#notes:Aegis tier A #6 choice #1: best Burning Ambition weapon for ignition builds
 dimwishlist:item=1471212226&perks=3186078099,1840239774,2749775325,2890807135,3640170453#notes:Aegis tier A #6 choice #2: best Burning Ambition weapon for ignition builds
 dimwishlist:item=1471212226&perks=3186078099,4198902903,1840239774,2749775325,2890807135#notes:Aegis tier A #6 choice #3: best Burning Ambition weapon for ignition builds
@@ -3633,8 +3637,8 @@ dimwishlist:item=1471212226&perks=3186078099,4198902903,1840239774,1523832109,27
 dimwishlist:item=1471212226&perks=4293542123,3186078099,1840239774,2749775325,2869569095#notes:Aegis tier A #6 choice #7: best Burning Ambition weapon for ignition builds
 dimwishlist:item=1471212226&perks=3186078099,1840239774,2749775325,2869569095,3640170453#notes:Aegis tier A #6 choice #8: best Burning Ambition weapon for ignition builds
 dimwishlist:item=1471212226&perks=3186078099,4198902903,1840239774,2749775325,2869569095#notes:Aegis tier A #6 choice #9: best Burning Ambition weapon for ignition builds
-dimwishlist:item=-2827764482#notes:Aegis tier list: Rank B or worse weapon
-dimwishlist:item=-2827764482#notes:Aegis tier list: Rank B or worse weapon
+dimwishlist:item=2827764482&perks=3700496672,1840239774,2749775325,192157151,2173046394#notes:Aegis tier A #7 choice #1: great trace for tapping and using Voltshot, overall not very special though
+dimwishlist:item=2827764482&perks=1048183818,1840239774,2749775325,192157151,2173046394#notes:Aegis tier A #7 choice #2: great trace for tapping and using Voltshot, overall not very special though
 dimwishlist:item=-4248997900#notes:Aegis tier list: Rank B or worse weapon
 dimwishlist:item=-4248997900#notes:Aegis tier list: Rank B or worse weapon
 dimwishlist:item=-527989828#notes:Aegis tier list: Rank B or worse weapon
@@ -5227,24 +5231,36 @@ dimwishlist:item=938936806&perks=4019266109,269888150,2077819806,3846229553,3666
 dimwishlist:item=938936806&perks=1749209109,3324494224,269888150,3846229553,3666208348#notes:Aegis tier S #2 choice #4: Eager-swappable exclusive double Collective ability regen
 dimwishlist:item=938936806&perks=1749209109,269888150,243981275,3846229553,3666208348#notes:Aegis tier S #2 choice #5: Eager-swappable exclusive double Collective ability regen
 dimwishlist:item=938936806&perks=1749209109,269888150,2077819806,3846229553,3666208348#notes:Aegis tier S #2 choice #6: Eager-swappable exclusive double Collective ability regen
-dimwishlist:item=938936806&perks=3324494224,4019266109,2349202967,3846229553,3666208348#notes:Aegis tier S #2 choice #7: Eager-swappable exclusive double Collective ability regen
-dimwishlist:item=938936806&perks=4019266109,243981275,2349202967,3846229553,3666208348#notes:Aegis tier S #2 choice #8: Eager-swappable exclusive double Collective ability regen
-dimwishlist:item=938936806&perks=4019266109,2077819806,2349202967,3846229553,3666208348#notes:Aegis tier S #2 choice #9: Eager-swappable exclusive double Collective ability regen
-dimwishlist:item=938936806&perks=1749209109,3324494224,2349202967,3846229553,3666208348#notes:Aegis tier S #2 choice #10: Eager-swappable exclusive double Collective ability regen
-dimwishlist:item=938936806&perks=1749209109,243981275,2349202967,3846229553,3666208348#notes:Aegis tier S #2 choice #11: Eager-swappable exclusive double Collective ability regen
-dimwishlist:item=938936806&perks=1749209109,2077819806,2349202967,3846229553,3666208348#notes:Aegis tier S #2 choice #12: Eager-swappable exclusive double Collective ability regen
-dimwishlist:item=938936806&perks=3324494224,4019266109,269888150,3846229553,938542991#notes:Aegis tier S #2 choice #13: Eager-swappable exclusive double Collective ability regen
-dimwishlist:item=938936806&perks=4019266109,269888150,243981275,3846229553,938542991#notes:Aegis tier S #2 choice #14: Eager-swappable exclusive double Collective ability regen
-dimwishlist:item=938936806&perks=4019266109,269888150,2077819806,3846229553,938542991#notes:Aegis tier S #2 choice #15: Eager-swappable exclusive double Collective ability regen
-dimwishlist:item=938936806&perks=1749209109,3324494224,269888150,3846229553,938542991#notes:Aegis tier S #2 choice #16: Eager-swappable exclusive double Collective ability regen
-dimwishlist:item=938936806&perks=1749209109,269888150,243981275,3846229553,938542991#notes:Aegis tier S #2 choice #17: Eager-swappable exclusive double Collective ability regen
-dimwishlist:item=938936806&perks=1749209109,269888150,2077819806,3846229553,938542991#notes:Aegis tier S #2 choice #18: Eager-swappable exclusive double Collective ability regen
-dimwishlist:item=938936806&perks=3324494224,4019266109,2349202967,3846229553,938542991#notes:Aegis tier S #2 choice #19: Eager-swappable exclusive double Collective ability regen
-dimwishlist:item=938936806&perks=4019266109,243981275,2349202967,3846229553,938542991#notes:Aegis tier S #2 choice #20: Eager-swappable exclusive double Collective ability regen
-dimwishlist:item=938936806&perks=4019266109,2077819806,2349202967,3846229553,938542991#notes:Aegis tier S #2 choice #21: Eager-swappable exclusive double Collective ability regen
-dimwishlist:item=938936806&perks=1749209109,3324494224,2349202967,3846229553,938542991#notes:Aegis tier S #2 choice #22: Eager-swappable exclusive double Collective ability regen
-dimwishlist:item=938936806&perks=1749209109,243981275,2349202967,3846229553,938542991#notes:Aegis tier S #2 choice #23: Eager-swappable exclusive double Collective ability regen
-dimwishlist:item=938936806&perks=1749209109,2077819806,2349202967,3846229553,938542991#notes:Aegis tier S #2 choice #24: Eager-swappable exclusive double Collective ability regen
+dimwishlist:item=938936806&perks=3324494224,269888150,3846229553,3666208348,776531651#notes:Aegis tier S #2 choice #7: Eager-swappable exclusive double Collective ability regen
+dimwishlist:item=938936806&perks=269888150,243981275,3846229553,3666208348,776531651#notes:Aegis tier S #2 choice #8: Eager-swappable exclusive double Collective ability regen
+dimwishlist:item=938936806&perks=269888150,2077819806,3846229553,3666208348,776531651#notes:Aegis tier S #2 choice #9: Eager-swappable exclusive double Collective ability regen
+dimwishlist:item=938936806&perks=3324494224,4019266109,2349202967,3846229553,3666208348#notes:Aegis tier S #2 choice #10: Eager-swappable exclusive double Collective ability regen
+dimwishlist:item=938936806&perks=4019266109,243981275,2349202967,3846229553,3666208348#notes:Aegis tier S #2 choice #11: Eager-swappable exclusive double Collective ability regen
+dimwishlist:item=938936806&perks=4019266109,2077819806,2349202967,3846229553,3666208348#notes:Aegis tier S #2 choice #12: Eager-swappable exclusive double Collective ability regen
+dimwishlist:item=938936806&perks=1749209109,3324494224,2349202967,3846229553,3666208348#notes:Aegis tier S #2 choice #13: Eager-swappable exclusive double Collective ability regen
+dimwishlist:item=938936806&perks=1749209109,243981275,2349202967,3846229553,3666208348#notes:Aegis tier S #2 choice #14: Eager-swappable exclusive double Collective ability regen
+dimwishlist:item=938936806&perks=1749209109,2077819806,2349202967,3846229553,3666208348#notes:Aegis tier S #2 choice #15: Eager-swappable exclusive double Collective ability regen
+dimwishlist:item=938936806&perks=3324494224,2349202967,3846229553,3666208348,776531651#notes:Aegis tier S #2 choice #16: Eager-swappable exclusive double Collective ability regen
+dimwishlist:item=938936806&perks=243981275,2349202967,3846229553,3666208348,776531651#notes:Aegis tier S #2 choice #17: Eager-swappable exclusive double Collective ability regen
+dimwishlist:item=938936806&perks=2077819806,2349202967,3846229553,3666208348,776531651#notes:Aegis tier S #2 choice #18: Eager-swappable exclusive double Collective ability regen
+dimwishlist:item=938936806&perks=3324494224,4019266109,269888150,3846229553,938542991#notes:Aegis tier S #2 choice #19: Eager-swappable exclusive double Collective ability regen
+dimwishlist:item=938936806&perks=4019266109,269888150,243981275,3846229553,938542991#notes:Aegis tier S #2 choice #20: Eager-swappable exclusive double Collective ability regen
+dimwishlist:item=938936806&perks=4019266109,269888150,2077819806,3846229553,938542991#notes:Aegis tier S #2 choice #21: Eager-swappable exclusive double Collective ability regen
+dimwishlist:item=938936806&perks=1749209109,3324494224,269888150,3846229553,938542991#notes:Aegis tier S #2 choice #22: Eager-swappable exclusive double Collective ability regen
+dimwishlist:item=938936806&perks=1749209109,269888150,243981275,3846229553,938542991#notes:Aegis tier S #2 choice #23: Eager-swappable exclusive double Collective ability regen
+dimwishlist:item=938936806&perks=1749209109,269888150,2077819806,3846229553,938542991#notes:Aegis tier S #2 choice #24: Eager-swappable exclusive double Collective ability regen
+dimwishlist:item=938936806&perks=3324494224,269888150,3846229553,776531651,938542991#notes:Aegis tier S #2 choice #25: Eager-swappable exclusive double Collective ability regen
+dimwishlist:item=938936806&perks=269888150,243981275,3846229553,776531651,938542991#notes:Aegis tier S #2 choice #26: Eager-swappable exclusive double Collective ability regen
+dimwishlist:item=938936806&perks=269888150,2077819806,3846229553,776531651,938542991#notes:Aegis tier S #2 choice #27: Eager-swappable exclusive double Collective ability regen
+dimwishlist:item=938936806&perks=3324494224,4019266109,2349202967,3846229553,938542991#notes:Aegis tier S #2 choice #28: Eager-swappable exclusive double Collective ability regen
+dimwishlist:item=938936806&perks=4019266109,243981275,2349202967,3846229553,938542991#notes:Aegis tier S #2 choice #29: Eager-swappable exclusive double Collective ability regen
+dimwishlist:item=938936806&perks=4019266109,2077819806,2349202967,3846229553,938542991#notes:Aegis tier S #2 choice #30: Eager-swappable exclusive double Collective ability regen
+dimwishlist:item=938936806&perks=1749209109,3324494224,2349202967,3846229553,938542991#notes:Aegis tier S #2 choice #31: Eager-swappable exclusive double Collective ability regen
+dimwishlist:item=938936806&perks=1749209109,243981275,2349202967,3846229553,938542991#notes:Aegis tier S #2 choice #32: Eager-swappable exclusive double Collective ability regen
+dimwishlist:item=938936806&perks=1749209109,2077819806,2349202967,3846229553,938542991#notes:Aegis tier S #2 choice #33: Eager-swappable exclusive double Collective ability regen
+dimwishlist:item=938936806&perks=3324494224,2349202967,3846229553,776531651,938542991#notes:Aegis tier S #2 choice #34: Eager-swappable exclusive double Collective ability regen
+dimwishlist:item=938936806&perks=243981275,2349202967,3846229553,776531651,938542991#notes:Aegis tier S #2 choice #35: Eager-swappable exclusive double Collective ability regen
+dimwishlist:item=938936806&perks=2077819806,2349202967,3846229553,776531651,938542991#notes:Aegis tier S #2 choice #36: Eager-swappable exclusive double Collective ability regen
 dimwishlist:item=1815105249&perks=2489430594,2077819806,243981275,2349202967,436053704#notes:Aegis tier S #3 choice #1: vortex Eager with highest side utility options
 dimwishlist:item=2480871539&perks=2489430594,1089671869,243981275,2349202967,436053704#notes:Aegis tier S #3 choice #2: vortex Eager with highest side utility options
 dimwishlist:item=1815105249&perks=2489430594,243981275,2349202967,3708227201,436053704#notes:Aegis tier S #3 choice #3: vortex Eager with highest side utility options
@@ -5775,8 +5791,8 @@ dimwishlist:item=-4066778670#notes:Aegis tier list: Rank B or worse weapon
 dimwishlist:item=-4066778670#notes:Aegis tier list: Rank B or worse weapon
 dimwishlist:item=-4066778670#notes:Aegis tier list: Rank B or worse weapon
 dimwishlist:item=-4066778670#notes:Aegis tier list: Rank B or worse weapon
-dimwishlist:item=593808239&perks=2697390518,957782887,1840239774,3764420437,3230963543#notes:Aegis tier S #1 choice #1: first of its kind; powerful archetype with mediocre 1st column
-dimwishlist:item=593808239&perks=2697390518,957782887,1840239774,968510818,3230963543#notes:Aegis tier S #1 choice #2: first of its kind; powerful archetype with mediocre 1st column
+dimwishlist:item=593808239&perks=2579169598,2697390518,1840239774,3764420437,3230963543#notes:Aegis tier S #1 choice #1: first of its kind; powerful archetype with mediocre 1st column
+dimwishlist:item=593808239&perks=2579169598,2697390518,1840239774,968510818,3230963543#notes:Aegis tier S #1 choice #2: first of its kind; powerful archetype with mediocre 1st column
 dimwishlist:item=593808239&perks=2697390518,1840239774,2289534249,3764420437,3230963543#notes:Aegis tier S #1 choice #3: first of its kind; powerful archetype with mediocre 1st column
 dimwishlist:item=593808239&perks=2697390518,1840239774,2289534249,968510818,3230963543#notes:Aegis tier S #1 choice #4: first of its kind; powerful archetype with mediocre 1st column
 dimwishlist:item=593808239&perks=2697390518,1840239774,1365187766,3764420437,3230963543#notes:Aegis tier S #1 choice #5: first of its kind; powerful archetype with mediocre 1st column
